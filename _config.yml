@@ -11,11 +11,13 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
+instagram: 'myinsta'
+email: 'dogalurunlertrakya@gmail.com'
 #dribbble: 'mydribbble'
 facebook: 'myfacebook'
 twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
 github-user: 'mygithub'
@@ -32,7 +34,7 @@ tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
-email: 'dogalurunlertrakya@gmail.com'
+
 messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
