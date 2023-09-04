@@ -30,7 +30,7 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'telefon'
+telefon: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
@@ -38,7 +38,7 @@ blog_url: 'myblog.blog.com'
 whatsapp: 'myfbchat'
 
 #social-links-order: [instagram, email, github-user, facebook, twitter, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url]
-social-links-order: [tumblr, whatsapp, instagram, email]
+social-links-order: [telefon, whatsapp, instagram, email]
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
@@ -131,7 +131,7 @@ social-links:
   - name: medium
     url-pattern: medium.com/@__USERNAME__
 
-  - name: tumblr
+  - name: telefon
     url-pattern: tel:0(532)-220-88-77
 
   - name: dribbble
