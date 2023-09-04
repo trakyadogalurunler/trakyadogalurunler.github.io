@@ -77,7 +77,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/trakya_dogalurunler
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
