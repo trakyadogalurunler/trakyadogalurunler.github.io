@@ -37,8 +37,8 @@ blog_url: 'myblog.blog.com'
 
 messenger: 'myfbchat'
 
-social-links-order: [instagram, email, github-user, facebook, twitter, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url]
-
+#social-links-order: [instagram, email, github-user, facebook, twitter, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url]
+social-links-order: [tumblr, messenger, instagram, email]
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
@@ -132,7 +132,7 @@ social-links:
     url-pattern: medium.com/@__USERNAME__
 
   - name: tumblr
-    url-pattern: __USERNAME__.tumblr.com
+    url-pattern: tel:+905322203803
 
   - name: dribbble
     url-pattern: dribbble.com/__USERNAME__
@@ -141,7 +141,7 @@ social-links:
     url-pattern: keybase.io/__USERNAME__
 
   - name: messenger
-    url-pattern: m.me/__USERNAME__
+    url-pattern: wa.me/+905322203803
     icon-class: fab fa-2x fa-facebook-messenger
 
   - name: telegram
