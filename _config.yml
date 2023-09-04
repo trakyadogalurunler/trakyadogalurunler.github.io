@@ -37,7 +37,7 @@ blog_url: 'myblog.blog.com'
 
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [instagram, email, github-user, facebook, twitter, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url]
 
 # Yaml manifest of supported social links
 # Requirements:
