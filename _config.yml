@@ -57,7 +57,15 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: instagram
+    url-pattern: instagram.com/trakya_dogalurunler
+  
+  - name: email
+    url-scheme: 'mailto:'
+    url-pattern: 'dogalurunlertrakya@gmail.com'
+    icon-class: far fa-2x fa-envelope-open
+    
+  - name: facebook 
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
@@ -75,9 +83,6 @@ social-links:
 
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
-
-  - name: instagram
-    url-pattern: instagram.com/trakya_dogalurunler
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -150,7 +155,4 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: email
-    url-scheme: 'mailto:'
-    url-pattern: 'dogalurunlertrakya@gmail.com'
-    icon-class: far fa-2x fa-envelope-open
+  
